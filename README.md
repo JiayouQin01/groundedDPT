@@ -35,3 +35,12 @@ sample output:
       ├── 📄 cameras.txt  
       ├── 📄 images.txt  
       └── 📄 points3D.txt  
+## Acknowledgments
+This project utilizes the following open-source tools:
+
+Depth Anything V2
+Depth Anything V2 is a state-of-the-art model for accurate and efficient depth estimation. We acknowledge the authors for providing this valuable resource and enabling advanced depth-related capabilities in our project.
+
+COLMAP
+COLMAP is a robust and widely used structure-from-motion and multi-view stereo software. We extend our gratitude to the developers for creating and maintaining this indispensable tool, which has been fundamental to our 3D reconstruction pipeline.
+
