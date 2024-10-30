@@ -23,7 +23,7 @@ sample output:
 ## Usage
   run main.py under root foler for sample usage
 ## Create Custom Data
-  [COLMAP](https://colmap.github.io/install.html) install COLMAP with given instruction, then run COLMAP and export data to txt file, put images and files under this structure:  
+   install [COLMAP](https://colmap.github.io/install.html) with given instruction, then run COLMAP and export data to txt file, put images and files under this structure:  
   📂 dataset  
   ├── 📂 Project_1  
   │   ├──  📂 img  
