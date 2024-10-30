@@ -1,7 +1,13 @@
 # GDPT-Grounded Monocular Image Depth Estimation for Dense Point Cloud 3D Reconstruction
 
 ## What does this do?
-This is my master's final project, it reads point cloud reconstruction output from COLMAP and use depth anything V2 to solve the issue where featureless area could not be reconstructed
+This is my master's final project, it reads point cloud reconstruction output from COLMAP and use depth anything V2 to solve the issue where featureless area could not be reconstructed  
+sample output:  
+
+
+| ![Image 1](https://github.com/JiayouQin01/groundedDPT/blob/main/plot/Kitchen_COLMAP.png) | ![Image 2](https://github.com/JiayouQin01/groundedDPT/blob/main/plot/Kitchen_Grounded.png) | ![Image 3](https://github.com/JiayouQin01/groundedDPT/blob/main/plot/Kicthen_Grounded_down_sampled.png) |
+|:---:|:---:|:---:|
+| COLMAP Output | Unprocessed GDPT Output  | Processed GDPT Output |
 
 ## Installation
   ### download pretrained weights
