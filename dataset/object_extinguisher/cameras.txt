@@ -1,0 +1,4 @@
+# Camera list with one line of data per camera:
+#   CAMERA_ID, MODEL, WIDTH, HEIGHT, PARAMS[]
+# Number of cameras: 1
+2 SIMPLE_RADIAL 3024 4032 3269.7434117974876 1512 2016 0.015380024852603317
