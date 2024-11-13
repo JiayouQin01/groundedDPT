@@ -6,7 +6,7 @@ from get_depth_gt import generate_depth_map_gt
 from fit_depth import generate_depth_map_prediction
 from helper_functions import *
 
-path = 'dataset/scene_kitchen'
+path = 'dataset/stevens'
 
 
 generate_depth_map_gt(path=path, visualize = True)         #generate ground truth depth map from sparse point cloud
